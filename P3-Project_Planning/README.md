@@ -15,6 +15,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 - [Register](Register1.png)
 - [Create](Create1.png)
 - [Search](Search1.png)
+- [Liftoff Team Angela Miro Board](https://miro.com/app/board/uXjVOicTG1k=/)
 
 ### Project Tracker
 
