@@ -8,6 +8,8 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
+
+- [Beth Johnson Github](http://github.com/originalbplusj)
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
